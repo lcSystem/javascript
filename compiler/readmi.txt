@@ -1,0 +1,5 @@
+puede probar declarando de esta forma: 
+
+inicio 
+declare hola fecha;
+fin
